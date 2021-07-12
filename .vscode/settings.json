@@ -6,5 +6,7 @@
   "eslint.format.enable": true,
   "terminal.integrated.allowChords": false,
   "workbench.editor.enablePreview": true,
-  "editor.suggestSelection": "first"
+  "editor.suggestSelection": "first",
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+  "files.autoSave": "onFocusChange"
 }
